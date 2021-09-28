@@ -16,7 +16,7 @@ Detailed information about the course is available in the dedicated web pages.
 
 * [Introduction to the course](./slide/00-intro.pdf)
 * [Presentation of the project work](./slide/01-project.pdf)
-* What is HCI?
+* [What is HCI?](./slide/02-whatisHCI.pdf)
 * Needfinding
 * Needfinding: exercise
 * Task Analysis
