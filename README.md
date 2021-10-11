@@ -18,8 +18,8 @@ Detailed information about the course is available in the dedicated web pages.
 * [Presentation of the project work](./slide/01-project.pdf)
 * [What is HCI?](./slide/02-whatisHCI.pdf)
 * [Needfinding](./slide/03-needfinding.pdf)
-* Needfinding: exercise
-* Task Analysis
+* [Needfinding: exercise](./slide/03b-needfinding-exercise.pdf) (template)
+* [Task Analysis](./slide/04-taskanalysis.pdf)
 * Prototyping
 * Guidelines
 * Visual Design
