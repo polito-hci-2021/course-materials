@@ -19,8 +19,9 @@ Detailed information about the course is available in the dedicated web pages.
 * [What is HCI?](./slide/02-whatisHCI.pdf)
 * [Needfinding](./slide/03-needfinding.pdf)
 * [Needfinding: exercise](./slide/03b-needfinding-exercise.pdf) (template)
+    - [Needfinding exercise result](./slide/03b-needfinding-exercise-done.pdf)
 * [Task Analysis](./slide/04-taskanalysis.pdf)
-* Prototyping
+* [Prototyping](./slide/05-prototyping.pdf)
 * Guidelines
 * Visual Design
 * Heuristic Evaluation
