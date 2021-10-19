@@ -36,4 +36,5 @@ Detailed information about the course is available in the dedicated web pages.
 
 ## Laboratories
 * [Lab 1 - Hall of (Sh\|F)ame](./labs/L01-hall-of-shame-fame.pdf)
-* Lab 2
+* [Lab 2 - Needfinding](./labs/L02-needfinding.pdf)
+* Lab 3
