@@ -22,7 +22,7 @@ Detailed information about the course is available in the dedicated web pages.
     - [Needfinding exercise result](./slide/03b-needfinding-exercise-done.pdf)
 * [Task Analysis](./slide/04-taskanalysis.pdf)
 * [Prototyping](./slide/05-prototyping.pdf)
-* Guidelines
+* [Guidelines](./slide/06-guidelines.pdf)
 * Visual Design
 * Heuristic Evaluation
 * Heuristic Evaluation: exercise
