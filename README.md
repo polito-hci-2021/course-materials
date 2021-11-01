@@ -23,7 +23,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Task Analysis](./slide/04-taskanalysis.pdf)
 * [Prototyping](./slide/05-prototyping.pdf)
 * [Guidelines](./slide/06-guidelines.pdf)
-* Visual Design
+* [Visual Design](./slide/07-visualdesign.pdf)
 * Heuristic Evaluation
 * Heuristic Evaluation: exercise
 * Designing for Diversity
