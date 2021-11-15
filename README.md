@@ -38,3 +38,4 @@ Detailed information about the course is available in the dedicated web pages.
 * [Lab 1 - Hall of (Sh\|F)ame](./labs/L01-hall-of-shame-fame.pdf)
 * [Lab 2 - Needfinding](./labs/L02-needfinding.pdf)
 * [Lab 3 - Storyboard and paper prototypes](./labs/L03-storyboards-paper-prototypes.pdf)
+* [Lab 4 - Heuristic evaluation](./labs/L04-heuristic-evaluation.pdf)
