@@ -26,7 +26,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Visual Design](./slide/07-visualdesign.pdf)
 * [Heuristic Evaluation](./slide/08-heuristic-evaluation.pdf)
 * [Heuristic Evaluation and Visual Design: exercise](./slide/08b-heuristics-exercise.pdf)
-* Designing for Diversity
+* [Designing for Diversity](./slide/09-designing-diversity.pdf)
 * Multimodal Interaction
 * Interacting with AI
 * Usability Testing
