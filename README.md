@@ -28,7 +28,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Heuristic Evaluation and Visual Design: exercise](./slide/08b-heuristics-exercise.pdf)
 * [Designing for Diversity](./slide/09-designing-diversity.pdf)
 * [Multimodal Interaction](./slide/10-multimodal.pdf)
-* Interacting with AI
+* [Interacting with AI](./slide/11-human-ai-interaction.pdf)
 * Usability Testing
 * Controlled Experiments
 * Chi-Square Test: exercise
@@ -40,3 +40,4 @@ Detailed information about the course is available in the dedicated web pages.
 * [Lab 3 - Storyboard and paper prototypes](./labs/L03-storyboards-paper-prototypes.pdf)
 * [Lab 4 - Heuristic evaluation](./labs/L04-heuristic-evaluation.pdf)
 * [Lab 5 - Wireframe](./labs/L05-wireframe.pdf)
+* Lab 6
