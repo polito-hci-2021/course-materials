@@ -29,7 +29,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Designing for Diversity](./slide/09-designing-diversity.pdf)
 * [Multimodal Interaction](./slide/10-multimodal.pdf)
 * [Interacting with AI](./slide/11-human-ai-interaction.pdf)
-* Usability Testing
+* [Usability Testing](./slide/12-usability-testing.pdf)
 * Controlled Experiments
 * Chi-Square Test: exercise
 
