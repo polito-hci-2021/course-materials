@@ -30,7 +30,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Multimodal Interaction](./slide/10-multimodal.pdf)
 * [Interacting with AI](./slide/11-human-ai-interaction.pdf)
 * [Usability Testing](./slide/12-usability-testing.pdf)
-* Controlled Experiments
+* [Controlled Experiments](./slide/13-user-study.pdf)
 * Chi-Square Test: exercise
 
 
