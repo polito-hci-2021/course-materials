@@ -40,4 +40,4 @@ Detailed information about the course is available in the dedicated web pages.
 * [Lab 3 - Storyboard and paper prototypes](./labs/L03-storyboards-paper-prototypes.pdf)
 * [Lab 4 - Heuristic evaluation](./labs/L04-heuristic-evaluation.pdf)
 * [Lab 5 - Wireframe](./labs/L05-wireframe.pdf)
-* Lab 6
+* [Lab 6 - Usability Testing](./labs/L06-usability-testing.pdf)
